@@ -18,7 +18,7 @@ Antes de começar, certifique-se de ter o Node.js instalado. Para o gerenciament
 
 ### Uso remoto do KeyWallet
 
-1. Acesse o link a seguir: [KeyWallet](https://https://keywallet.onrender.com/)
+1. Acesse o link a seguir: [KeyWallet](https://keywallet.vercel.app/)
 
 ### Uso local do KeyWallet
 
